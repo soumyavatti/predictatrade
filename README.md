@@ -1,4 +1,4 @@
-### Predicatrade Project: AI-Driven Equity Prediction Using LLMs**  
+### Predicatrade Project: AI-Driven Equity Prediction Using LLMs
 
 **Objective:**  
 Leveraging Large Language Models (LLMs) and historical financial data to generate predictive signals for equity markets. By analyzing news, economic reports, and asset price movements, this project aims to uncover actionable insights for investment strategies.  
